@@ -1,5 +1,5 @@
 # LH Compressor
-A command line tool to compress file to the LH format found in several Wii Games.
+A command line tool to compress files to the LH (LZ + Huffman) format found in several Wii Games, written in C.
 
 ## Usage
 
