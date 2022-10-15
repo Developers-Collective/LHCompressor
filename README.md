@@ -9,6 +9,6 @@ A command line tool to compress files to the LH (LZ + Huffman) format found in s
 
 The above command compresses the given file to the LH format. The file is saved 
 in the same directory as the uncompressed file, but with the file 
-extension ".LH". For exmaple "TEST.bin" is compressed to "TEST.bin.LH".
+extension ".LH". For example "TEST.bin" is compressed to "TEST.bin.LH".
 
 All tested files were successfully decompressed with **ntcompress.exe**.
